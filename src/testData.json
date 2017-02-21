@@ -1,0 +1,24 @@
+{
+  "contests": [
+    {
+      "id": 1,
+      "categoryName": "Business/Company",
+      "contestName": "One yada yada"
+    },
+    {
+      "id": 2,
+      "categoryName": "Magazine/Newsletter",
+      "contestName": "Two yada yada"
+    },
+    {
+      "id": 3,
+      "categoryName": "Software Component",
+      "contestName": "Three yada yada"
+    },
+    {
+      "id": 4,
+      "categoryName": "Website",
+      "contestName": "Four yada yada"
+    }
+  ]
+}
